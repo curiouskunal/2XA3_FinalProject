@@ -1,5 +1,5 @@
-#Lyndon Array
-###2XA3 Final Project
+# Lyndon Array
+### 2XA3 Final Project
 
 Programed in NASM assembly language
 
